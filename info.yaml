@@ -18,10 +18,10 @@ yaml_version: 3.0
 #
 # Here is a great example: https://github.com/davidsiaw/tt02-davidsiaw-stackcalc/blob/38c5647f83aad2aec675d566aa3d67b98f0aac81/info.yaml
 documentation: 
-  author:       ""      # daniel joseph
-  title:        ""      # tiny tape out not a and not b
+  author:       "daniel joseph"      # daniel joseph
+  title:        "tiny tape out not a and not b"      # tiny tape out not a and not b
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  ""      # turn s led light on
+  description:  "turn s led light on"      # turn s led light on
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
